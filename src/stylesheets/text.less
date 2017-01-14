@@ -1,0 +1,168 @@
+/* 
+* Text Stylesheets
+* =================
+*/
+
+/* Google Fonts */
+@import 'https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700';
+
+/* Styles */
+body {
+	font-family: 'Roboto Slab', serif;
+}
+
+header {
+
+	a {
+		color: rgba(255, 255, 255, 0.9);
+		text-transform: uppercase;
+	}
+
+	a:hover:not(.logo) {
+		text-decoration: none;
+		background-color: #245781;
+		color: rgba(255, 255, 255, 0.9);
+	}
+
+	@media (max-width: 720px) {
+		font-size: 10px;
+	}
+}
+
+#content.home {
+	p {
+		font-size: 120%;
+	}
+
+	#intro {
+		color: #fff;
+		text-align: center;
+
+		h1 {
+			margin-top: 2em;
+			font-size: 48px;
+
+			@media (max-width: 640px) {
+				font-size: 36px;
+			}
+		}
+
+		h2 {
+			margin-top: 2em;
+			font-size: 24px;
+			font-weight: 200;
+
+			@media (max-width: 640px) {
+				font-size: 18px;
+			}
+		}
+
+		.learn-more {
+			font-size: 18px;
+			font-weight: 200;
+
+			a {
+				color: rgba(255, 255, 255, .8);
+
+			}
+
+			a:hover {
+				text-decoration: none;
+				color: #fff;
+			}
+		}
+	}
+
+	#about {
+		.fa {
+			margin: .5em 0;
+			font-size: 64px;
+			color: #122C41;
+		}
+
+		h2 {
+			margin-bottom: 1em;
+		}
+
+		h3 {
+			text-align: center;
+			margin-bottom: 1em;
+		}
+	}
+
+	#notable-projects {
+		h2 {
+			margin-bottom: 1em;
+		}
+
+		.title {
+			font-size: 16px;
+		}
+
+		a:hover {
+			text-decoration: none;
+		}
+
+		.more-work {
+
+			p {
+				text-align: center;
+				margin-top: 2.5em;
+				font-size: 18px;
+			}
+		}
+	}
+
+	#follow {
+		text-align: center;
+
+		h2 {
+			margin-bottom: 1em;
+		}
+	}
+}
+
+#content.mystory {
+	.timeline {
+		.tldate {
+			h3 {
+				margin: .5em 0;
+			}
+		}
+
+		.tl-heading {
+			h4 {
+				color: inherit;
+			}
+		}
+	}
+}
+
+#content.work {
+
+	.projects {
+		h2 {
+			margin-bottom: 0;
+		}
+
+		.title {
+			font-size: 16px;
+		}
+
+		a:hover {
+			text-decoration: none;
+		}
+	}
+}
+
+#content.contact {
+	h1 {
+		text-align: center;
+		margin-bottom: 1em;
+	}
+
+	p {
+		font-size: 120%;
+	}
+	
+}
