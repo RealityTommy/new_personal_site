@@ -5,7 +5,7 @@
 
 		<div class="projects row">
 			<div class="project col-sm-6 col-md-3">
-				<a href="#">
+				<a href="./projects/SketchUpSim.php">
 					<img src="http://placehold.it/350x200">
 					<p class="title">SketchUpSim</p>
 				</a>
