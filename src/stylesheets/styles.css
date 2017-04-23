@@ -12,6 +12,7 @@
 /* Variables */
 /* Styles */
 @import 'https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700';
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 header {
   position: fixed;
   top: 0;
@@ -192,6 +193,9 @@ header a img {
   margin-top: 64px;
   padding: 2em 0;
 }
+#content.project {
+  margin-top: 64px;
+}
 /* 
 * Text Stylesheets
 * =================
@@ -305,4 +309,7 @@ header a:hover:not(.logo) {
 }
 #content.contact p {
   font-size: 120%;
+}
+#content.project p {
+  font-family: 'Roboto', sans-serif;
 }
