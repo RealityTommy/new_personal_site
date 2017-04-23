@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include "header.php"; ?>
 
 <div id="content" class="mystory" role="main">
 	<div class="container">
@@ -32,7 +32,7 @@
 					</div>
 					<div class="tl-body">
 						<p>
-							My first working experience at Michigan State University was at the <a href="https://msu.edu/~aaas/">African American and African Studies</a> (AAAS) program where I had the opportunity to rebuild and maintain the program's website. From leading the user interface/interaction design process to developing a content strategy, I collaborated with both the program's faculty and graduate students to create an online resource that best addressed their needs.
+							My first working experience at Michigan State University was at the <a href="https://msu.edu/~aaas/">African American and African Studies</a> (AAAS) program where I had the opportunity to rebuild and maintain the program"s website. From leading the user interface/interaction design process to developing a content strategy, I collaborated with both the program"s faculty and graduate students to create an online resource that best addressed their needs.
 						</p>
 					</div>
 				</div>
@@ -261,4 +261,4 @@
 	</div>
 </div>
 
-<?php include 'footer.php'; ?>
+<?php include "footer.php"; ?>

@@ -1,6 +1,6 @@
-<?php include 'header.php'; ?>
+<?php include "header.php"; ?>
 
-<i class="menu-btn fa fa-bars" aria-hidden="true"></i>
+<i tabindex="0" class="menu-btn fa fa-bars" aria-label="Open Menu"></i>
 
 <div id="content" class="home" role="main">
 
@@ -8,7 +8,7 @@
 		<div class="container">
 			<div class="col-md-12">
 				<img alt="Tommy Truong" src="img/logo.png">
-				<h1>Hello, I'm Tommy Truong</h1>
+				<h1>Hello, I"m Tommy Truong</h1>
 				<h2>Learning Experience Designer, User Experience Developer, and Friend.</h2>
 			</div>
 		</div>
@@ -135,4 +135,4 @@
 
 </div>
 
-<?php include 'footer.php'; ?>
+<?php include "footer.php"; ?>
