@@ -20,7 +20,7 @@
         content</a>
 
 <header>
-	<nav>
+	<nav role="navigation">
 		<div class="container-fluid">
 			<a href="index.php">Home</a>
 			<a href="mystory.php">My Story</a>
