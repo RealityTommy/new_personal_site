@@ -40,6 +40,9 @@ header a img {
   width: auto;
   margin-top: -8px;
 }
+footer {
+  min-height: 64px;
+}
 .menu-btn {
   position: fixed;
   top: 0;
@@ -53,6 +56,11 @@ header a img {
 }
 #content {
   width: 100%;
+}
+.space {
+  float: left;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 #content.home #intro {
   position: relative;
@@ -176,6 +184,7 @@ header a img {
 #content.work .projects .project .title {
   margin-top: -2em;
   margin-left: 1em;
+  color: #fff;
 }
 @media (max-width: 1024px) {
   #content.work .projects .project:nth-child(4n+2) {
@@ -196,12 +205,18 @@ header a img {
 #content.project {
   margin-top: 64px;
 }
+#content.project img {
+  width: 100%;
+}
 /* 
 * Text Stylesheets
 * =================
 */
 /* Google Fonts */
 /* Styles */
+html {
+  font-size: 16px;
+}
 body {
   font-family: 'Roboto Slab', serif;
 }
@@ -312,4 +327,5 @@ header a:hover:not(.logo) {
 }
 #content.project p {
   font-family: 'Roboto', sans-serif;
+  font-size: 0.875rem;
 }
