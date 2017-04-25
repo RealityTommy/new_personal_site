@@ -7,7 +7,7 @@
 	<section id="intro">
 		<div class="container">
 			<div class="col-md-12">
-				<img src="Image" alt="Tommy Truong" src="img/logo.png">
+				<img alt="Tommy Truong's logo." alt="Tommy Truong" src="img/logo.png">
 				<h1>Hello, I'm Tommy Truong</h1>
 				<h2>Learning Experience Designer, User Experience Developer, and Friend</h2>
 			</div>
@@ -81,21 +81,21 @@
 			<div class="projects row">
 				<div class="project col-sm-12 col-md-4" data-aos="fade-right" data-aos-anchor="#notable-projects" data-aos-delay="500" data-aos-duration="500">
 					<a href="#">
-						<img src="Image" src="http://placehold.it/350x200">
+						<img alt="Image" src="http://placehold.it/350x200">
 						<p class="title">SketchUpSim</p>
 					</a>
 				</div>
 
 				<div class="project col-sm-12 col-md-4" data-aos="fade-right" data-aos-anchor="#notable-projects" data-aos-delay="600" data-aos-duration="500">
 					<a href="#">
-						<img src="Image" src="http://placehold.it/350x200">
+						<img alt="Image" src="http://placehold.it/350x200">
 						<p class="title">Religious Soundmap</p>
 					</a>
 				</div>
 
 				<div class="project col-sm-12 col-md-4" data-aos="fade-right" data-aos-anchor="#notable-projects" data-aos-delay="700" data-aos-duration="500">
 					<a href="#">
-						<img src="Image" src="http://placehold.it/350x200">
+						<img alt="Image" src="http://placehold.it/350x200">
 						<p class="title">Fountain Competition</p>
 					</a>
 				</div>
@@ -121,13 +121,13 @@
 
 			<div class="row social-links">
 				<span class="col-sm-4">
-					<a href="https://twitter.com/Tommicchi"><img src="Image" alt="Twitter" src="img/twitter.svg"></a>
+					<a href="https://twitter.com/Tommicchi"><img alt="Image" alt="Twitter" src="img/twitter.svg"></a>
 				</span>
 				<span class="col-sm-4">
-					<a href="https://www.linkedin.com/in/truongtommy"><img src="Image" alt="LinkedIn" src="img/linkedin.svg"></a>
+					<a href="https://www.linkedin.com/in/truongtommy"><img alt="Image" alt="LinkedIn" src="img/linkedin.svg"></a>
 				</span>
 				<span class="col-sm-4">
-					<a href="https://medium.com/@TommyTruong"><img src="Image" alt="Medium" src="img/medium.svg"></a>
+					<a href="https://medium.com/@TommyTruong"><img alt="Image" alt="Medium" src="img/medium.svg"></a>
 				</span>
 			</div>
 		</div>

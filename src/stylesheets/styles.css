@@ -58,8 +58,7 @@ footer {
   width: 100%;
 }
 .space {
-  float: left;
-  margin-top: 1em;
+  margin-top: 2em;
   margin-bottom: 2em;
 }
 #content.home #intro {
@@ -207,6 +206,10 @@ footer {
 }
 #content.project img {
   width: 100%;
+}
+#content.project img.space {
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 /* 
 * Text Stylesheets

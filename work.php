@@ -12,7 +12,7 @@
 			</div>
 
 			<div class="project col-sm-6 col-md-3">
-				<a href="#">
+				<a href="./projects/religioussoundmap.php">
 					<img alt="Image" src="http://placehold.it/350x200">
 					<p class="title">Religious Soundmap</p>
 				</a>

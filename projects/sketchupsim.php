@@ -38,7 +38,7 @@
 
 			</div>
 
-			<div class="images space">
+			<div class="images">
 				<div class="col-md-6">
 					<img src="http://www.roadtovr.com/wp-content/uploads/2013/03/oculus-rift-unboxing.jpg" alt="Development Kit 1 of Oculus Rift inside carrying case.">
 				</div>
@@ -82,7 +82,7 @@
 
 		</div>
 
-		<div class="row space">
+		<div class="row">
 
 			<div class="col-md-6">
 
@@ -100,7 +100,7 @@
 
 		</div>
 
-		<div class="row space">
+		<div class="row">
 
 			<div class="col-md-6">
 
@@ -118,7 +118,7 @@
 
 		</div>
 
-		<div class="row space">
+		<div class="row">
 
 			<div class="col-md-6">
 
@@ -136,7 +136,7 @@
 
 		</div>	
 
-		<div class="row space">
+		<div class="row">
 
 			<div class="col-md-6">
 
