@@ -317,6 +317,9 @@ header a:hover:not(.logo) {
 #content.contact p {
   font-size: 120%;
 }
+#content.project img {
+  margin-bottom: 2em;
+}
 #content.project p {
   font-family: 'Roboto', sans-serif;
   font-size: 0.875rem;

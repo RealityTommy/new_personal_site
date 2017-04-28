@@ -257,6 +257,31 @@
 				</div>
 			</li>
 
+			<li class="timeline-inverted">
+				<div class="tl-circ"></div>
+				<div class="timeline-panel">
+					<div class="tl-heading">
+						<h4>Left Spartan Innovations</h4>
+						<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> December 2016</small></p>
+					</div>
+				</div>
+			</li>
+
+			<li>
+				<div class="tl-circ"></div>
+				<div class="timeline-panel">
+					<div class="tl-heading">
+						<h4>Started at Kunz, Leigh, and Associates</h4>
+						<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> May 2016</small></p>
+					</div>
+					<div class="tl-body">
+						<p>
+							As a User Experience Designer for the <a href="http://www.kunzleigh.com/">Kunz, Leigh, and Associates</a>, I leverage my skills in user experience, accessibility, and web development to implement solutions for large-scale systems.
+						</p>
+					</div>
+				</div>
+			</li>
+
 		</ul>
 	</div>
 </div>

@@ -80,21 +80,21 @@
 
 			<div class="projects row">
 				<div class="project col-sm-12 col-md-4" data-aos="fade-right" data-aos-anchor="#notable-projects" data-aos-delay="500" data-aos-duration="500">
-					<a href="#">
+					<a href="./projects/SketchUpSim.php">
 						<img alt="Image" src="http://placehold.it/350x200">
 						<p class="title">SketchUpSim</p>
 					</a>
 				</div>
 
 				<div class="project col-sm-12 col-md-4" data-aos="fade-right" data-aos-anchor="#notable-projects" data-aos-delay="600" data-aos-duration="500">
-					<a href="#">
+					<a href="http://sites.cal.msu.edu/soundmap3/" target="blank">
 						<img alt="Image" src="http://placehold.it/350x200">
 						<p class="title">Religious Soundmap</p>
 					</a>
 				</div>
 
 				<div class="project col-sm-12 col-md-4" data-aos="fade-right" data-aos-anchor="#notable-projects" data-aos-delay="700" data-aos-duration="500">
-					<a href="#">
+					<a href="http://fountainchallenge.msu.edu/" target="blank">
 						<img alt="Image" src="http://placehold.it/350x200">
 						<p class="title">Fountain Competition</p>
 					</a>
