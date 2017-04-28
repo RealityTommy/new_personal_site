@@ -40,9 +40,6 @@ header a img {
   width: auto;
   margin-top: -8px;
 }
-footer {
-  min-height: 64px;
-}
 .menu-btn {
   position: fixed;
   top: 0;
@@ -176,6 +173,9 @@ footer {
 #content.work .projects {
   margin-top: 2em;
 }
+#content.work .projects .project {
+  margin-bottom: 2em;
+}
 #content.work .projects .project img {
   width: 100%;
   height: auto;
@@ -184,17 +184,6 @@ footer {
   margin-top: -2em;
   margin-left: 1em;
   color: #fff;
-}
-@media (max-width: 1024px) {
-  #content.work .projects .project:nth-child(4n+2) {
-    margin-bottom: 2em;
-  }
-}
-@media (max-width: 768px) {
-  #content.work .projects .project:nth-child(4n+1),
-  #content.work .projects .project:nth-child(4n+3) {
-    margin-bottom: 2em;
-  }
 }
 #content.contact {
   width: 100%;

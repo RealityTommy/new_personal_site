@@ -46,7 +46,7 @@
 				<h3>Responsive Design</h3>
 
 				<p>
-					When it came time to begin developing the Omeka theme, my first challenge was that the graphic designers had only put together mockups for desktop-sized screens--I needed augment those compositions to design tablet- and mobile-responsive versions as well.
+					When it came time to begin developing the Omeka theme, my first challenge was that the graphic designers had only put together mockups for desktop-sized screens--I needed to augment those compositions to design tablet- and mobile-responsive versions as well.
 				</p>
 
 			</div>
@@ -124,18 +124,16 @@
 				<h3>Development</h3>
 
 				<p>
-					Luckily, the development process for an Omeka theme was not too complicated. Similar to WordPress, the content management system did most of the work and the rest required my knowledge of Omeka's PHP framework to communicate with the backend.
-				</p>
-
-				<p>
-					Despite having only a few months to put together the website, I was able to incorporate regular meetings with the stakeholders to ensure that the design and interactions were what coming along as expected.
+					Due to the specificity of the designs, this Omeka website was unable to be built off of an existing theme but required developing one from scratch.
 				</p>
 
 				<h3>Content Migration</h3>
 
 				<p>
-					
+					In order to complete the project on time, I collaborated with Marcus Fields, a <a href="http://www.rcah.msu.edu/">Residential College in the Arts asnd Humanities</a> (RCAH) student and fellow Innovations Team member, to have content migrated over while I was putting together the theme.
 				</p>
+
+				<h2>Moving Forward</h2>
 
 			</div>
 
